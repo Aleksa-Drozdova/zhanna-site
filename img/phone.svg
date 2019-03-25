@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>phone</title>
+    <desc>Created with Sketch.</desc>
+    <g id="mockup-2-design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nav-contact" transform="translate(-246.000000, -19.000000)" fill-rule="nonzero" stroke="#CEA345">
+            <g id="phone" transform="translate(247.000000, 20.000000)">
+                <path d="M7.20161626,9.82127156 C8.92371607,11.5378983 10.8023704,13.098468 11.585143,12.3181831 C12.6810247,11.2257843 13.3855201,10.2894425 15.8121153,12.2401547 C18.2387105,14.1908668 16.3600562,15.5173511 15.3424517,16.5317215 C14.0900155,17.7801772 9.47165692,16.6097499 4.9315756,12.0840977 C0.391494286,7.55844543 -0.782664675,2.95476469 0.46977155,1.7063089 C1.56565325,0.613910081 2.81808947,-1.25877361 4.77502107,1.23813798 C6.73195267,3.65702108 5.79262551,4.35927746 4.69674381,5.45167628 C3.91397117,6.15393267 5.55779371,8.10464484 7.20161626,9.82127156 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>
